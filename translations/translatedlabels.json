@@ -338,12 +338,12 @@
     },
     "dialog": {
       "airship.config.json": 46,
-      "alpaca.config.json": 52,
+      "alpaca.config.json": 58,
       "arrivedhome.config.json": 54,
       "clues.config.json": 50,
       "colourful.config.json": 33,
       "combat.config.json": 179,
-      "converse.config.json": 1270,
+      "converse.config.json": 1288,
       "crewmember.config.json": 39,
       "cultist.config.json": 31,
       "deadbeat.config.json": 23,
@@ -373,7 +373,7 @@
       "shroom.config.json": 85,
       "sniper.config.json": 23,
       "spaceconverse.config.json": 0,
-      "spacehero.config.json": 0,
+      "spacehero.config.json": 13,
       "thief.config.json": 59
     },
     "dungeons": {
@@ -409,7 +409,7 @@
         "shared_.config.json": 2
       },
       "cockpit": {
-        "cockpit.config.json": 154
+        "cockpit.config.json": 156
       },
       "confirmation": {
         "hiremercenaryconfirmation.config.json": 2,
@@ -599,10 +599,10 @@
           }
         },
         "randomblueprint": {
-          "mechblueprint3.activeitem.json": 0,
-          "mechblueprint4.activeitem.json": 0,
-          "mechblueprint5.activeitem.json": 0,
-          "mechblueprint6.activeitem.json": 0
+          "mechblueprint3.activeitem.json": 2,
+          "mechblueprint4.activeitem.json": 2,
+          "mechblueprint5.activeitem.json": 2,
+          "mechblueprint6.activeitem.json": 2
         },
         "shields": {
           "commonlargeshield.activeitem.json": 2,
@@ -616,7 +616,7 @@
           "startershield.activeitem.json": 2
         },
         "stationtransponder": {
-          "stationtransponder.activeitem.json": 0
+          "stationtransponder.activeitem.json": 2
         },
         "unsorted": {
           "broom": {
@@ -647,7 +647,7 @@
           "railplatform": {
             "compositerailplatform.activeitem.json": 2,
             "rustyrailplatform.activeitem.json": 2,
-            "stationtram.activeitem.json": 0
+            "stationtram.activeitem.json": 2
           },
           "relocator": {
             "relocator.activeitem.json": 2
@@ -859,7 +859,7 @@
               "electricrailgun.activeitem.json": 2
             },
             "electrobaton": {
-              "electrobaton.activeitem.json": 0
+              "electrobaton.activeitem.json": 3
             },
             "evileye": {
               "evileye.activeitem.json": 2
@@ -977,7 +977,7 @@
                 "bubblegun.activeitem.json": 2
               },
               "doomcannon": {
-                "doomcannon.activeitem.json": 0
+                "doomcannon.activeitem.json": 2
               },
               "paintgun": {
                 "paintgunblue.activeitem.json": 2,
@@ -988,13 +988,13 @@
                 "paintgunyellow.activeitem.json": 2
               },
               "raygun": {
-                "raygun.activeitem.json": 0
+                "raygun.activeitem.json": 3
               },
               "snowgun": {
                 "snowgun.activeitem.json": 2
               },
               "spaceplasmarifle": {
-                "spaceplasmarifle.activeitem.json": 0
+                "spaceplasmarifle.activeitem.json": 3
               },
               "watergun": {
                 "watergun.activeitem.json": 2
@@ -1898,9 +1898,9 @@
               "predatory.legs.json": 2
             },
             "premier": {
-              "premier.chest.json": 0,
-              "premier.head.json": 0,
-              "premier.legs.json": 0
+              "premier.chest.json": 2,
+              "premier.head.json": 2,
+              "premier.legs.json": 2
             },
             "rainbowood": {
               "rainbowwood.chest.json": 2,
@@ -2080,7 +2080,7 @@
               "horse.head.json": 2
             },
             "industrialcrew": {
-              "industrialcrew.head.json": 0
+              "industrialcrew.head.json": 2
             },
             "insidious": {
               "insidious.head.json": 2
@@ -2101,7 +2101,7 @@
               "knight.head.json": 2
             },
             "ladyhat": {
-              "ladyhathead.head.json": 0
+              "ladyhathead.head.json": 2
             },
             "luchador": {
               "luchador.head.json": 2
@@ -2113,7 +2113,7 @@
               "m1helmet.head.json": 2
             },
             "mechpilot": {
-              "mechpilot.head.json": 0
+              "mechpilot.head.json": 2
             },
             "mininghat": {
               "mininghat.head.json": 2
@@ -2167,7 +2167,7 @@
               "sombrero.head.json": 2
             },
             "spacebird": {
-              "spacebird.head.json": 0
+              "spacebird.head.json": 2
             },
             "strawberry": {
               "strawberry.head.json": 2
@@ -2188,10 +2188,10 @@
               "tiger.head.json": 2
             },
             "tophat": {
-              "tophathead.head.json": 0
+              "tophathead.head.json": 2
             },
             "toptophat": {
-              "toptophathead.head.json": 0
+              "toptophathead.head.json": 2
             },
             "tvhelmet": {
               "tvhelmet.head.json": 2
@@ -2698,25 +2698,25 @@
         },
         "penguin": {
           "penguinbandana": {
-            "penguinbandana.legs.json": 0
+            "penguinbandana.legs.json": 2
           },
           "penguinberet": {
-            "penguinberet.legs.json": 0
+            "penguinberet.legs.json": 2
           },
           "penguincowboy": {
-            "penguincowboy.legs.json": 0
+            "penguincowboy.legs.json": 2
           },
           "penguinglasses": {
-            "penguinglasses.legs.json": 0
+            "penguinglasses.legs.json": 2
           },
           "penguinhelmet": {
-            "penguinhelmet.legs.json": 0
+            "penguinhelmet.legs.json": 2
           },
           "penguinscanner": {
-            "penguinscanner.legs.json": 0
+            "penguinscanner.legs.json": 2
           },
           "penguinvikinghat": {
-            "penguinvikinghat.legs.json": 0
+            "penguinvikinghat.legs.json": 2
           }
         },
         "protectorate": {
@@ -2793,7 +2793,7 @@
           "shared_bombcollar.augment.json": 1
         }
       },
-      "categories.config.json": 80,
+      "categories.config.json": 83,
       "currency": {
         "essence.currency.json": 2,
         "money.currency.json": 2
@@ -3223,7 +3223,7 @@
             "mecharmguidedmissiles.item.json": 0,
             "mecharmheatrifle.item.json": 0,
             "mecharmhomingmissile.item.json": 0,
-            "mecharmmissilerack.item.json": 0,
+            "mecharmmissilerack.item.json": 2,
             "mecharmmultidrone.item.json": 0,
             "mecharmplasmadrone.item.json": 0,
             "mecharmshielddrone.item.json": 0,
@@ -3386,13 +3386,13 @@
           "wheat.item.json": 2
         },
         "salvage": {
-          "salvagearm.item.json": 0,
-          "salvagebody.item.json": 0,
-          "salvagebooster.item.json": 0,
-          "salvagelegs.item.json": 0,
-          "salvagetier4.item.json": 0,
-          "salvagetier5.item.json": 0,
-          "salvagetier6.item.json": 0
+          "salvagearm.item.json": 2,
+          "salvagebody.item.json": 2,
+          "salvagebooster.item.json": 2,
+          "salvagelegs.item.json": 2,
+          "salvagetier4.item.json": 2,
+          "salvagetier5.item.json": 2,
+          "salvagetier6.item.json": 2
         },
         "shop": {
           "cannedfood.consumable.json": 2,
@@ -3405,10 +3405,10 @@
           "soda.consumable.json": 2
         },
         "tradegoods": {
-          "electronicgoods.item.json": 0,
-          "foodgoods.item.json": 0,
-          "medicalgoods.item.json": 0,
-          "militarygoods.item.json": 0
+          "electronicgoods.item.json": 2,
+          "foodgoods.item.json": 2,
+          "medicalgoods.item.json": 2,
+          "militarygoods.item.json": 2
         },
         "tradingcards": {
           "card01.item.json": 2
@@ -3448,8 +3448,8 @@
         "reedorgan.instrument.json": 2,
         "rockorgan.instrument.json": 2,
         "saxophone.instrument.json": 2,
-        "spaceorgan.instrument.json": 0,
-        "squareorgan.instrument.json": 0,
+        "spaceorgan.instrument.json": 1,
+        "squareorgan.instrument.json": 2,
         "steeldrum.instrument.json": 2,
         "trumpet.instrument.json": 2,
         "violin.instrument.json": 2
@@ -3482,7 +3482,7 @@
         "pressurisedplatform.matitem.json": 1,
         "rock14.matitem.json": 1,
         "sand2.matitem.json": 1,
-        "slopedscrappanel.matitem.json": 0,
+        "slopedscrappanel.matitem.json": 1,
         "temple1.matitem.json": 1,
         "temple2.matitem.json": 1,
         "tribalplatform.matitem.json": 1,
@@ -13096,8 +13096,8 @@
         "floranarena2.questtemplate.json": 3,
         "floranarena3.questtemplate.json": 3,
         "mechunlock.questtemplate.json": 5,
-        "mechupgrade1.questtemplate.json": 0,
-        "mechupgrade2.questtemplate.json": 0,
+        "mechupgrade1.questtemplate.json": 3,
+        "mechupgrade2.questtemplate.json": 5,
         "museumcurator1.questtemplate.json": 3,
         "museumcurator2.questtemplate.json": 3,
         "museumcurator3.questtemplate.json": 3,
@@ -13106,7 +13106,7 @@
         "museumcurator6.questtemplate.json": 3,
         "outpostclue.questtemplate.json": 19,
         "penguin1.questtemplate.json": 7,
-        "penguin2.questtemplate.json": 2,
+        "penguin2.questtemplate.json": 5,
         "protectoratesword.questtemplate.json": 4,
         "shared_.questtemplate.json": 9,
         "shipupgrade": {
@@ -13239,7 +13239,7 @@
       "glitchfemalenamegen.config.json": 9,
       "glitchmalenamegen.config.json": 10,
       "human.species.json": 5,
-      "humanfemalenamegen.config.json": 99,
+      "humanfemalenamegen.config.json": 106,
       "humanmalenamegen.config.json": 123,
       "humannamegen.config.json": 13,
       "hylotl.species.json": 7,
@@ -13438,7 +13438,7 @@
         "rainbowwood.material.json": 4,
         "rock14.material.json": 1,
         "sand2.material.json": 1,
-        "slopedscrappanel.material.json": 0,
+        "slopedscrappanel.material.json": 1,
         "temple1.material.json": 1,
         "temple2.material.json": 1,
         "throwingblock.material.json": 4,
@@ -13476,7 +13476,7 @@
         "junglegrass.matmod.json": 1,
         "lead.matmod.json": 1,
         "metal.matmod.json": 1,
-        "meteordust.matmod.json": 0,
+        "meteordust.matmod.json": 1,
         "moonstone.matmod.json": 1,
         "moss.matmod.json": 1,
         "platinum.matmod.json": 1,

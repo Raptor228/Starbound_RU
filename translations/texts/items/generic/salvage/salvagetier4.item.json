@@ -7,7 +7,8 @@
       ]
     },
     "Texts": {
-      "Eng": "Salvaged Interface Chip"
+      "Eng": "Salvaged Interface Chip",
+      "Rus": "Интерфейсный чип"
     }
   },
   {
@@ -18,7 +19,8 @@
       ]
     },
     "Texts": {
-      "Eng": "This component could be useful for crafting simple mech parts."
+      "Eng": "This component could be useful for crafting simple mech parts.",
+      "Rus": "Эта деталь может быть использована для создания деталей обычного Меха."
     }
   }
 ]
